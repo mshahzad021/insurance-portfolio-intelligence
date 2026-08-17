@@ -1,0 +1,26 @@
+Product_ID,Product_Name,Product_Category,Target_Customer,Risk_Level,Base_Premium,Premium_Min,Premium_Max,Sum_Insured_Min,Sum_Insured_Max,Claim_Probability,Claim_Severity_Min,Claim_Severity_Max,Renewal_Base_Rate
+PROD001,Medical Malpractice Insurance,Commercial,Corporate,High,10000,5000,25000,100000,1000000,0.14,5000,150000,0.78
+PROD002,Marine Cargo Insurance,Commercial,Corporate,High,12000,5000,30000,200000,5000000,0.13,10000,300000,0.76
+PROD003,Workmen Compensation,Commercial,Corporate,High,7000,3000,20000,100000,2000000,0.15,3000,100000,0.77
+PROD004,Property and Business Interruption,Commercial,Corporate,High,14000,7000,35000,500000,10000000,0.11,10000,500000,0.75
+PROD005,Contractors All Risks,Commercial,Corporate,High,15000,7000,40000,500000,15000000,0.16,10000,600000,0.74
+PROD006,Motor Fleet Insurance,Commercial,Corporate,High,18000,8000,50000,500000,10000000,0.22,5000,250000,0.72
+PROD007,Public Liability Insurance,Commercial,SME,Medium,5000,2000,15000,100000,3000000,0.09,3000,100000,0.8
+PROD008,Professional Indemnity Insurance,Commercial,SME,Medium,6000,2500,18000,100000,3000000,0.08,3000,120000,0.81
+PROD009,Group Health Insurance,Commercial,Corporate,Medium,9000,4000,25000,100000,2000000,0.18,1000,80000,0.83
+PROD010,Group Life Insurance,Commercial,Corporate,Low,7500,3000,20000,200000,5000000,0.05,10000,500000,0.87
+PROD011,Event Insurance,Commercial,SME,Medium,3000,1000,10000,50000,1000000,0.07,1000,50000,0.68
+PROD012,Drone Insurance,Commercial,SME,High,2500,1000,8000,20000,500000,0.17,1000,50000,0.7
+PROD013,Cyber Security Insurance,Commercial,SME,High,8000,3000,25000,100000,5000000,0.16,5000,300000,0.78
+PROD014,SME Insurance,Commercial,SME,Medium,4500,2000,15000,100000,3000000,0.1,2000,100000,0.82
+PROD015,Political Violence Insurance,Commercial,Corporate,High,20000,10000,60000,1000000,20000000,0.06,20000,1000000,0.65
+PROD016,Car Insurance,Personal,Individual,Medium,800,400,2500,5000,100000,0.12,500,15000,0.84
+PROD017,Home Insurance,Personal,Individual,Low,900,400,3000,20000,500000,0.07,500,20000,0.88
+PROD018,Health Insurance,Personal,Individual,Medium,1200,500,5000,10000,500000,0.18,500,25000,0.85
+PROD019,Life Insurance,Personal,Individual,Low,1500,600,5000,50000,1000000,0.04,5000,500000,0.9
+PROD020,Savings,Personal,Individual,Low,1000,500,5000,5000,100000,0.01,100,5000,0.92
+PROD021,Travel Insurance,Personal,Individual,Low,250,100,1000,5000,100000,0.06,100,10000,0.65
+PROD022,Bike Insurance,Personal,Individual,Medium,350,150,1000,2000,30000,0.13,200,8000,0.8
+PROD023,Pet Insurance,Personal,Individual,Medium,400,150,1500,2000,30000,0.09,200,6000,0.78
+PROD024,Business Insurance,Commercial,SME,Medium,7500,3000,25000,100000,5000000,0.11,3000,150000,0.81
+PROD025,Cycle Insurance,Personal,Individual,Low,200,100,700,1000,20000,0.08,100,5000,0.75

@@ -1,0 +1,9 @@
+Dataset,Rows,Columns,Duplicate_PK,Null_Cells,Null_Rate_%,Status
+customers,25000,11,0,18005,6.55,PASS
+products,25,14,0,0,0.0,PASS
+policies,49092,16,0,0,0.0,PASS
+claims,7821,13,0,0,0.0,PASS
+payments,216975,9,0,0,0.0,PASS
+renewals,30751,13,0,0,0.0,PASS
+interactions,127099,8,0,0,0.0,PASS
+leads,37500,8,0,0,0.0,PASS
