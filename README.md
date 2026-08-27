@@ -593,20 +593,16 @@ insurance-portfolio-intelligence/
 # 📸 Dashboard Preview
 
 ### Executive Portfolio
-
-`dashboard/screenshots/1 - Executive Portfolio.png`
+![Executive Portfolio](dashboard/screenshots/1%20-%20Executive%20Portfolio.png)
 
 ### Product & Claims Intelligence
-
-`dashboard/screenshots/2 - Product & Claims Intelligence.png`
+![Product & Claims Intelligence](dashboard/screenshots/2%20-%20Product%20%26%20Claims%20Intelligence.png)
 
 ### Customer & Retention Intelligence
-
-`dashboard/screenshots/customer-retention.png`
+![Customer & Retention Intelligence](dashboard/screenshots/customer-retention.png)
 
 ### Commercial & Collections
-
-`dashboard/screenshots/commercial-collections.png`
+![Commercial & Collections](dashboard/screenshots/commercial-collections.png)
 
 ---
 
