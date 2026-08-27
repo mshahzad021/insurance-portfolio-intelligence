@@ -594,11 +594,11 @@ insurance-portfolio-intelligence/
 
 ### Executive Portfolio
 
-`dashboard/screenshots/executive-portfolio.png`
+`dashboard/screenshots/1 - Executive Portfolio.png`
 
 ### Product & Claims Intelligence
 
-`dashboard/screenshots/product-claims.png`
+`dashboard/screenshots/2 - Product & Claims Intelligence.png`
 
 ### Customer & Retention Intelligence
 
