@@ -584,15 +584,13 @@ insurance-portfolio-intelligence/
 | Analytical SQL Views      | ✅ Completed    |
 | KPI Framework             | ✅ Completed    |
 | Power BI Data Model       | ✅ Completed    |
-| Executive Dashboard       | 🔄 In Progress |
-| Dashboard Screenshots     | ⏳ Pending      |
+| Executive Dashboard       | ✅ Completed |
+| Dashboard Screenshots     | ✅ Completed    |
 | Final Documentation       | ⏳ Pending      |
 
 ---
 
 # 📸 Dashboard Preview
-
-> Dashboard screenshots will be added after completion.
 
 ### Executive Portfolio
 
